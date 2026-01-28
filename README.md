@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🔭 Atualmente trabalhando em projetos pessoais em <strong>Spring boot</strong><br>
+  🔭 Atualmente trabalhando no <strong>Banco do Estado de Sergipe</strong> e <strong>Procuradoria Geral do Município</strong><br>
   🌱 Explorando novas tecnologias como <strong>AWS</strong> e <strong>Microserviços</strong><br>
   🤔 Procurando colaborar com projetos que envolvam <strong>desenvolvimento backend</strong> ou <strong>aplicações Java</strong><br>
   💬 Me pergunte sobre: <strong>Java, Spring Boot, AWS</strong><br>
