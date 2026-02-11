@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">📫 Como me encontrar</h2>
+<h2 align="center">📫 Como me encontrar </h2>
 
 <p align="center">
   <a href="mailto:jacithocaio@gmail.com">
