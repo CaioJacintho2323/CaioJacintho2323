@@ -69,7 +69,7 @@
 <h2 align="center">⚡ Curiosidades</h2>
 
 <p align="center">
-  🎮 Amo jogar <strong>CS</strong> <br>
+  🎮 Amo jogar <strong>CS2</strong> <br>
   🏃‍♂️ Pratico <strong>Muay thai</strong> no tempo livre <br>
   🎧 Sempre ouvindo <strong>música</strong> enquanto codifico <br>
 </p>
